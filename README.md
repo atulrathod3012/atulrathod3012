@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://img.icons8.com/color/120/000000/administrator-male.png](https://avatars.githubusercontent.com/u/123151175?s=400&u=3cac56446f43ceb3c2563362f967c4e5d7cbcd1c&v=4)" alt="Atul Rathod" width="96" height="96"/>
+  <img src="https://avatars.githubusercontent.com/u/123151175?s=400&u=3cac56446f43ceb3c2563362f967c4e5d7cbcd1c&v=4" alt="Atul Rathod" width="96" height="96"/>
 </p>
 
 # Atul Rathod
