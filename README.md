@@ -1,5 +1,12 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/123151175?s=400&u=3cac56446f43ceb3c2563362f967c4e5d7cbcd1c&v=4" alt="Atul Rathod" width="96" height="96"/>
+<img 
+  src="https://avatars.githubusercontent.com/u/123151175?s=400&u=3cac56446f43ceb3c2563362f967c4e5d7cbcd1c&v=4" 
+  alt="Atul Rathod" 
+  width="120" 
+  height="120" 
+  style="border-radius: 50%;"
+/>
+
 </p>
 
 # Atul Rathod
